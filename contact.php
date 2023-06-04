@@ -2,8 +2,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml"> 
 <head> 
 <title>Contact</title> 
-<link rel="shortcut icon" href="./ico/phc96.ico">
-<link rel="stylesheet"type="text/css"href="./styles/style.css">
+<link rel="shortcut icon" href="phc96.ico">
+<link rel="stylesheet"type="text/css"href="style.css">
 </head> 
 <body bgcolor="#B4C9C1" text="black">
 <div id="navbar"> 
