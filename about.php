@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml"> 
 <head> 
 <title>About</title> 
-<link rel="shortcut icon" href="./ico/doc96.ico">
+<link rel="shortcut icon" href="doc96.ico">
 <link rel="stylesheet"type="text/css"href="./styles/style.css">
 
 </head> 
